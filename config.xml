@@ -7,20 +7,20 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Aplicacion dos </name>
+    <name>App 7 Combinacion de aplicaciones</name>
 
     <description>
-        Aplicacion Del 5 De Mayo De 1862
-	</description>
+       Combina la aplicacion 3,4,5
+    </description>
 
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        FLORES GRANDE ULISES
+        Fernanda Bonola
     </author>
 	
-<gap:plugin name="org.apache.cordova.device" version="0.2.12" />
-		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
+ <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
+<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 
 </widget>
